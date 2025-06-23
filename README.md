@@ -97,8 +97,8 @@ Liquidez e volatilidade caminham juntas em boa parte dos FIIs analisados, revela
 
 ## Considerações finais
 
-🔗 [Execute a consulta no Data.World](https://data.world/wramos/mapa-inteligente-dos-fundos-brasileiros-fiis-e-fidc/workspace/query?queryid=7df77f85-9326-491b-b7dd-a7694f05541e)  
-Se ficou interessado e quiser explorar ou modificar a análise diretamente na plataforma.
+Acesse: data.world/wramos/mapa-inteligente-dos-fundos-brasileiros-fiis-e-fidc  
+Se ficou interessado e quiser explorar ou modificar a análise. 
 
 
 ## Fonte dos dados
